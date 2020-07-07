@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 body {
   background-color: #fff;
   padding:20px;
@@ -9,4 +11,9 @@ body {
   font-weight:400;
 }
 
-@import "{{ site.theme }}";
+header {
+  width:470px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
