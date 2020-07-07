@@ -1,9 +1,8 @@
 title: Anjali Ramchandani # your name (or website title) here
-# logo: "/images/headshot.png?raw=false"
+logo: "/images/headshot.png?raw=true"
 description: >
   I am a software engineer with experience in multiple industries, embedded software for IoT products being the major concentration in the early phase.  I have exclusively worked with early startups or new products, where I have learnt the entire product development cycle, and follow Agile methodology for product delivery. I am currently a graduate student in Computer Science at UC Riverside, where I continue to sharpen my academic knowledge and build projects in different domains.
   <br><br>
-  <a href="https://www.linkedin.com/in/anjaliramchandani">LinkedIn</a>
-  <a href="mailto:anjaliramchandani21@gmail.com">email</a>
+
 
 theme: jekyll-theme-minimal

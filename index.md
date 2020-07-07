@@ -1,33 +1,34 @@
-## Portfolio
-
----
-### Education
-
-**University of California, Riverside, (Pursuing) | MS, Computer Science, Dec 2020**
-Courses: Distributed Systems, Big Data Management, Introduction to Deep Learning, Advanced Operating Systems
-**D.Y. Patil College of Engg., University of Pune, India | BE, Electronics and Telecommunication, May 2015**
-
----
 ### Projects
 
-[TRAFFIC SIGNAL CONTROL USING REINFORCEMENT LEARNING AGENTS:](pdf/traffic.pdf)
+[#### TRAFFIC SIGNAL CONTROL USING REINFORCEMENT LEARNING AGENTS:](pdf/traffic.pdf)
 The goal of this project was to automate traffic signal control and reduce congestion. Implemented and compared two different methods of RL: Deep Qlearning and A2C. Utilised: SUMO, TraCI, TensorFlow. Languages: Python, HTML
 <img src="images/dqn.png?raw=true"/>
 <img src="images/A2C.png?raw=true"/>
 
 ---
-[HOPSCOTCH:](/pdf/hopscotch.pdf)
+[#### HOPSCOTCH:](/pdf/hopscotch.pdf)
 HopScotch gives a route with nearby pubs, based on user’s criteria for selection (As a demonstration of Travelling Salesman Problem). Currently limited to 5 nearby pubs. Dataset queried from Yelp on Los Angeles’ pubs. Utilized: Hadoop HDFS, PySpark, kmeans, GQL, Google Maps API, Google OR tools. Languages: Python, HTML
 <img src="images/cent.png?raw=true"/>
 <img src="images/hopscotch.png?raw=true"/>
 
 ---
-[NEO OBD2 PRO:](https://github.com/intrepidcs/neoobd2_sdk)
+[#### NEO OBD2 PRO:](https://github.com/intrepidcs/neoobd2_sdk)
 neoOBD2 PRO serves as a prototyping tool for creating automotive IoT applications, which we provided with an open-source SDK. Utilized: FreeRTOS, multi-threading, IPC (queues), Markdown (documentation), Git. AWS IoT, AWS lambda, Alexa. Languages: C, C++, JavaScript
 
 ---
-PROJECT BIOSCOPE:
+#### PROJECT BIOSCOPE:
 Bioscope is an end-to end platform for IP-CCTV surveillance system with multiple applications. Developed firmware for a gateway device. Implemented stream collectors with a gateway module using gRPC. Other technologies: gRPC, Protocol Buffers, FFMPEG. Platforms: Linux, Raspberry Pi. Languages: C, C++, Go
+
+---
+### Education
+
+###### University of California, Riverside, (Pursuing) | MS, Computer Science, Dec 2020:
+
+*Courses*: Distributed Systems, Big Data Management, Introduction to Deep Learning, Advanced Operating Systems
+
+###### D.Y. Patil College of Engg., University of Pune, India | BE, Electronics and Telecommunication, May 2015
+
+---
 
 ### Skills
 
