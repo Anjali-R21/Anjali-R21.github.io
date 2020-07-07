@@ -9,8 +9,16 @@
 }
 
 header {
-  width:370px;
+  width:270px;
   float:left;
   position:fixed;
-  padding: 20px;
+  padding: 10px;
+}
+
+footer {
+  width:270px;
+  float:right;
+  position:fixed;
+  bottom:50px;
+  padding: 10px;
 }
