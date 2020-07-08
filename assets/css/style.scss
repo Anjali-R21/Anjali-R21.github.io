@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1000px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -19,6 +19,5 @@ footer {
   width:270px;
   float:right;
   position:fixed;
-  bottom:50px;
   padding: 10px;
 }
