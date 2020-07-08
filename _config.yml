@@ -3,8 +3,8 @@ name: Anjali Ramchandani
 email: anjaliramchandani21@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Go, C++, JavaScript, Distributed Computing, Startups, Agile, Pair Programming"
-skills: "Software Engineer"
-baseurl:
+skills:  "Software Engineer"
+baseurl: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
@@ -26,7 +26,7 @@ color:
   primary-rgb: "212, 175, 55"
   secondary: debc5b
   secondary-dark: c9a848
-  section-tout: f6e3bd
+  section-tout: fdf0b5
 
 
 
