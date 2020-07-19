@@ -5,6 +5,8 @@
  */
 
 body {
+    width: 100%; !important
+    height: initial;
     overflow-x: hidden;
 }
 
