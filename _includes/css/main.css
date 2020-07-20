@@ -90,15 +90,15 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    background-image: "img/coding_language.jpg";
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 header .container {
     padding-top: 80px;
     padding-bottom: 10px;
-    background-image: "img/coding_language.jpg";
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
 }
 
 header img {
